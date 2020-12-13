@@ -5,4 +5,8 @@ fuck!
 add a line !
 try try try !
 
+<<<<<<< HEAD
 branch main
+=======
+branch test:
+>>>>>>> test
